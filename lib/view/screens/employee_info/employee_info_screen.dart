@@ -79,11 +79,11 @@ class _EmployeeInfoScreenState extends State<EmployeeInfoScreen> {
                   baseColor: generateRandomColorWithOpacity(),
                   leading: CircleAvatar(child: Text('${index + 1}')),
                   title: Text(
-                    "${user.email}",
+                    "${user.name}",
                     style: AppTextStyles.heading5,
                   ),
                   subtitle: Text(
-                    "${user.name}",
+                    "${user.email}",
                     maxLines: 1,
                   ),
                   children: <Widget>[

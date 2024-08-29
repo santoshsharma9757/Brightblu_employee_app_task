@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670314891648",
+    "project_id": "brightblu-employee-info",
+    "storage_bucket": "brightblu-employee-info.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670314891648:android:08690f0d3c9600929f5965",
+        "android_client_info": {
+          "package_name": "com.brighblue_test.brightblu_employee_info"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASsePJjcwOhaGVUzNOR_URiTze04f2HG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

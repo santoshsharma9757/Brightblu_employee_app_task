@@ -1,16 +1,13 @@
-# brightblu_user_info
+# brightblu_employee_info_app
 
-A new Flutter project.
+Input Personal Information: Users enter their details to generate a formatted PDF.
 
-## Getting Started
+Upload to SFTP Server: The PDF is uploaded to the SFTP server and saved under a folder named after the user.
 
-This project is a starting point for a Flutter application.
+Store Data in Firebase: The personal information is stored in Firebase.
 
-A few resources to get you started if this is your first Flutter project:
+Update and Replace: Users can update their information, which updates the PDF and replaces the old version on the SFTP server.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Delete Data: Users can delete their information and the associated PDF from both Firebase and the SFTP server.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
